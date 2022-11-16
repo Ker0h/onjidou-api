@@ -1,0 +1,7 @@
+{
+    "port": 8080,
+    "databases": {
+        "mongo": "mongodb://localhost/cassis",
+        "mongo-test": "mongodb://localhost/cassis_test"
+    }
+}
